@@ -1,0 +1,34 @@
+C:\Users\hasan\OneDrive\Masaüstü\KütüphaneOtomasyonu\KütüphaneOtomasyonu\bin\Debug\KütüphaneOtomasyonu.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\KütüphaneOtomasyonu\KütüphaneOtomasyonu\bin\Debug\KütüphaneOtomasyonu.exe
+C:\Users\hasan\OneDrive\Masaüstü\KütüphaneOtomasyonu\KütüphaneOtomasyonu\bin\Debug\KütüphaneOtomasyonu.pdb
+C:\Users\hasan\OneDrive\Masaüstü\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Debug\KütüphaneOtomasyonu.csprojAssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Debug\KütüphaneOtomasyonu.AnaSayfa.resources
+C:\Users\hasan\OneDrive\Masaüstü\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Debug\KütüphaneOtomasyonu.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Debug\KütüphaneOtomasyonu.ÜyeEklemeSayfası.resources
+C:\Users\hasan\OneDrive\Masaüstü\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Debug\KütüphaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Debug\KütüphaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Debug\KütüphaneOtomasyonu.exe
+C:\Users\hasan\OneDrive\Masaüstü\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Debug\KütüphaneOtomasyonu.pdb
+C:\Users\hasan\OneDrive\Masaüstü\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Debug\KütüphaneOtomasyonu.ÜyeListele.resources
+C:\Users\hasan\OneDrive\Masaüstü\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Debug\KütüphaneOtomasyonu.KitapEkle.resources
+C:\Users\hasan\OneDrive\Masaüstü\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Debug\KütüphaneOtomasyonu.KitapListele.resources
+C:\Users\hasan\OneDrive\Masaüstü\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Debug\KütüphaneOtomasyonu.EmanetKitapVer.resources
+C:\Users\hasan\OneDrive\Masaüstü\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Debug\KütüphaneOtomasyonu.EmanetKitapListele.resources
+C:\Users\hasan\OneDrive\Masaüstü\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Debug\KütüphaneOtomasyonu.EmanetKitapİade.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-1\KütüphaneOtomasyonu\KütüphaneOtomasyonu\bin\Debug\KütüphaneOtomasyonu.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-1\KütüphaneOtomasyonu\KütüphaneOtomasyonu\bin\Debug\KütüphaneOtomasyonu.exe
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-1\KütüphaneOtomasyonu\KütüphaneOtomasyonu\bin\Debug\KütüphaneOtomasyonu.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-1\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Debug\KütüphaneOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-1\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Debug\KütüphaneOtomasyonu.AnaSayfa.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-1\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Debug\KütüphaneOtomasyonu.EmanetKitapListele.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-1\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Debug\KütüphaneOtomasyonu.EmanetKitapVer.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-1\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Debug\KütüphaneOtomasyonu.EmanetKitapİade.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-1\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Debug\KütüphaneOtomasyonu.KitapEkle.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-1\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Debug\KütüphaneOtomasyonu.KitapListele.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-1\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Debug\KütüphaneOtomasyonu.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-1\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Debug\KütüphaneOtomasyonu.ÜyeEklemeSayfası.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-1\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Debug\KütüphaneOtomasyonu.ÜyeListele.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-1\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Debug\KütüphaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-1\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Debug\KütüphaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-1\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Debug\KütüphaneOtomasyonu.exe
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-1\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Debug\KütüphaneOtomasyonu.pdb

@@ -1,0 +1,92 @@
+C:\Users\hasan\OneDrive\Masaüstü\VeriTabanlı C# Çalışmaları\Çalışmalar\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\bin\Debug\Hastane Sistemi.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\VeriTabanlı C# Çalışmaları\Çalışmalar\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\bin\Debug\Hastane Sistemi.exe
+C:\Users\hasan\OneDrive\Masaüstü\VeriTabanlı C# Çalışmaları\Çalışmalar\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\bin\Debug\Hastane Sistemi.pdb
+C:\Users\hasan\OneDrive\Masaüstü\VeriTabanlı C# Çalışmaları\Çalışmalar\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane Sistemi.csprojAssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\VeriTabanlı C# Çalışmaları\Çalışmalar\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\VeriTabanlı C# Çalışmaları\Çalışmalar\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane Sistemi.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\VeriTabanlı C# Çalışmaları\Çalışmalar\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\VeriTabanlı C# Çalışmaları\Çalışmalar\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane Sistemi.exe
+C:\Users\hasan\OneDrive\Masaüstü\VeriTabanlı C# Çalışmaları\Çalışmalar\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane Sistemi.pdb
+C:\Users\hasan\OneDrive\Masaüstü\VeriTabanlı C# Çalışmaları\Çalışmalar\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.DoktorGiriş.resources
+C:\Users\hasan\OneDrive\Masaüstü\VeriTabanlı C# Çalışmaları\Çalışmalar\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.Girişler.resources
+C:\Users\hasan\OneDrive\Masaüstü\VeriTabanlı C# Çalışmaları\Çalışmalar\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.HastaGiriş.resources
+C:\Users\hasan\OneDrive\Masaüstü\VeriTabanlı C# Çalışmaları\Çalışmalar\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.HastaKayıt.resources
+C:\Users\hasan\OneDrive\Masaüstü\VeriTabanlı C# Çalışmaları\Çalışmalar\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.RandevuListesi.resources
+C:\Users\hasan\OneDrive\Masaüstü\VeriTabanlı C# Çalışmaları\Çalışmalar\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.Hasta_Detay.resources
+C:\Users\hasan\OneDrive\Masaüstü\VeriTabanlı C# Çalışmaları\Çalışmalar\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.SekreterGirişi.resources
+C:\Users\hasan\OneDrive\Masaüstü\VeriTabanlı C# Çalışmaları\Çalışmalar\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.SekreterYönetimEkranı.resources
+C:\Users\hasan\OneDrive\Masaüstü\VeriTabanlı C# Çalışmaları\Çalışmalar\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.DoktorPanelı.resources
+C:\Users\hasan\OneDrive\Masaüstü\VeriTabanlı C# Çalışmaları\Çalışmalar\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.BransPaneli.resources
+C:\Users\hasan\OneDrive\Masaüstü\VeriTabanlı C# Çalışmaları\Çalışmalar\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.DuyuruListesi.resources
+C:\Users\hasan\OneDrive\Masaüstü\VeriTabanlı C# Çalışmaları\Çalışmalar\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.DoktorYönetimEkranı.resources
+C:\Users\hasan\OneDrive\Masaüstü\VeriTabanlı C# Çalışmaları\Çalışmalar\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.DoktorBilgiDuzenle.resources
+C:\Users\hasan\OneDrive\Masaüstü\VeriTabanlı C# Çalışmaları\Çalışmalar\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.HastaBilgiDuzenle.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\bin\Debug\Hastane Sistemi.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\bin\Debug\Hastane Sistemi.exe
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\bin\Debug\Hastane Sistemi.pdb
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane Sistemi.csprojAssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.BransPaneli.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.DoktorBilgiDuzenle.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.DoktorPanelı.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.DoktorYönetimEkranı.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.DuyuruListesi.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.HastaBilgiDuzenle.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.Hasta_Detay.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.DoktorGiriş.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.Girişler.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.HastaGiriş.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.HastaKayıt.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.RandevuListesi.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.SekreterGirişi.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.SekreterYönetimEkranı.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane Sistemi.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane Sistemi.exe
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane Sistemi.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Hastane Sistemi\Hastane Sistemi\bin\Debug\Hastane Sistemi.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Hastane Sistemi\Hastane Sistemi\bin\Debug\Hastane Sistemi.exe
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Hastane Sistemi\Hastane Sistemi\bin\Debug\Hastane Sistemi.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane Sistemi.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.BransPaneli.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.DoktorBilgiDuzenle.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.DoktorPanelı.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.DoktorYönetimEkranı.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.DuyuruListesi.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.HastaBilgiDuzenle.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.Hasta_Detay.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.DoktorGiriş.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.Girişler.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.HastaGiriş.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.HastaKayıt.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.RandevuListesi.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.SekreterGirişi.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.SekreterYönetimEkranı.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane Sistemi.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane Sistemi.exe
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane Sistemi.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-1\Hastane Otomasyonu\Hastane Sistemi\bin\Debug\Hastane Sistemi.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-1\Hastane Otomasyonu\Hastane Sistemi\bin\Debug\Hastane Sistemi.exe
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-1\Hastane Otomasyonu\Hastane Sistemi\bin\Debug\Hastane Sistemi.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-1\Hastane Otomasyonu\Hastane Sistemi\obj\Debug\Hastane Sistemi.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-1\Hastane Otomasyonu\Hastane Sistemi\obj\Debug\Hastane_Sistemi.BransPaneli.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-1\Hastane Otomasyonu\Hastane Sistemi\obj\Debug\Hastane_Sistemi.DoktorBilgiDuzenle.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-1\Hastane Otomasyonu\Hastane Sistemi\obj\Debug\Hastane_Sistemi.DoktorPanelı.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-1\Hastane Otomasyonu\Hastane Sistemi\obj\Debug\Hastane_Sistemi.DoktorYönetimEkranı.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-1\Hastane Otomasyonu\Hastane Sistemi\obj\Debug\Hastane_Sistemi.DuyuruListesi.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-1\Hastane Otomasyonu\Hastane Sistemi\obj\Debug\Hastane_Sistemi.HastaBilgiDuzenle.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-1\Hastane Otomasyonu\Hastane Sistemi\obj\Debug\Hastane_Sistemi.Hasta_Detay.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-1\Hastane Otomasyonu\Hastane Sistemi\obj\Debug\Hastane_Sistemi.DoktorGiriş.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-1\Hastane Otomasyonu\Hastane Sistemi\obj\Debug\Hastane_Sistemi.Girişler.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-1\Hastane Otomasyonu\Hastane Sistemi\obj\Debug\Hastane_Sistemi.HastaGiriş.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-1\Hastane Otomasyonu\Hastane Sistemi\obj\Debug\Hastane_Sistemi.HastaKayıt.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-1\Hastane Otomasyonu\Hastane Sistemi\obj\Debug\Hastane_Sistemi.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-1\Hastane Otomasyonu\Hastane Sistemi\obj\Debug\Hastane_Sistemi.RandevuListesi.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-1\Hastane Otomasyonu\Hastane Sistemi\obj\Debug\Hastane_Sistemi.SekreterGirişi.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-1\Hastane Otomasyonu\Hastane Sistemi\obj\Debug\Hastane_Sistemi.SekreterYönetimEkranı.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-1\Hastane Otomasyonu\Hastane Sistemi\obj\Debug\Hastane Sistemi.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-1\Hastane Otomasyonu\Hastane Sistemi\obj\Debug\Hastane Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-1\Hastane Otomasyonu\Hastane Sistemi\obj\Debug\Hastane Sistemi.exe
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-1\Hastane Otomasyonu\Hastane Sistemi\obj\Debug\Hastane Sistemi.pdb
