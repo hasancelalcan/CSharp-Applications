@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="74d9f76f13fe46d8b4f37de6d7d75b7f" Name="Diagram1" ZoomLevel="73">
+        <EntityTypeShape EntityType="TeknikServisOtomasyonuModel.sysdiagrams" Width="1.5" PointX="7.75" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="TeknikServisOtomasyonuModel.tbl_Admin" Width="1.5" PointX="9.75" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="TeknikServisOtomasyonuModel.tbl_ArizaDetay" Width="1.5" PointX="9.75" PointY="10.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="TeknikServisOtomasyonuModel.tbl_Cariler" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="TeknikServisOtomasyonuModel.tbl_Departman" Width="1.5" PointX="0.75" PointY="11.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="TeknikServisOtomasyonuModel.tbl_FaturaBilgi" Width="1.5" PointX="5.25" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="TeknikServisOtomasyonuModel.tbl_FaturaDetay" Width="1.5" PointX="7.5" PointY="10.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="TeknikServisOtomasyonuModel.tbl_Giderler" Width="1.5" PointX="10.75" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="TeknikServisOtomasyonuModel.tbl_Kategori" Width="1.5" PointX="0.75" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="TeknikServisOtomasyonuModel.tbl_Notlar" Width="1.5" PointX="12.75" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="TeknikServisOtomasyonuModel.tbl_Personeller" Width="1.5" PointX="3" PointY="10.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="TeknikServisOtomasyonuModel.tbl_UrunHaraket" Width="1.5" PointX="5.25" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="TeknikServisOtomasyonuModel.tbl_UrunKabul" Width="1.5" PointX="8.25" PointY="6.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="TeknikServisOtomasyonuModel.tbl_Urunler" Width="1.5" PointX="3" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="TeknikServisOtomasyonuModel.tbl_UrunTakip" Width="1.5" PointX="5.25" PointY="13.75" IsExpanded="true" />
+        <AssociationConnector Association="TeknikServisOtomasyonuModel.FK_tbl_FaturaBilgi_tbl_Cariler" ManuallyRouted="false" />
+        <AssociationConnector Association="TeknikServisOtomasyonuModel.FK_tbl_UrunHaraket_tbl_Cariler" ManuallyRouted="false" />
+        <AssociationConnector Association="TeknikServisOtomasyonuModel.FK_tbl_UrunKabul_tbl_Cariler" ManuallyRouted="false" />
+        <AssociationConnector Association="TeknikServisOtomasyonuModel.FK_tbl_Personeller_tbl_Departman" ManuallyRouted="false" />
+        <AssociationConnector Association="TeknikServisOtomasyonuModel.FK_tbl_FaturaBilgi_tbl_Personeller" ManuallyRouted="false" />
+        <AssociationConnector Association="TeknikServisOtomasyonuModel.FK_tbl_FaturaDetay_tbl_FaturaBilgi" ManuallyRouted="false" />
+        <AssociationConnector Association="TeknikServisOtomasyonuModel.FK_tbl_Urunler_tbl_Kategori" ManuallyRouted="false" />
+        <AssociationConnector Association="TeknikServisOtomasyonuModel.FK_tbl_UrunHaraket_tbl_Personeller" ManuallyRouted="false" />
+        <AssociationConnector Association="TeknikServisOtomasyonuModel.FK_tbl_UrunKabul_tbl_Personeller" ManuallyRouted="false" />
+        <AssociationConnector Association="TeknikServisOtomasyonuModel.FK_tbl_UrunHaraket_tbl_Urunler" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="TeknikServisOtomasyonuModel.tbl_Hakkımızda" Width="1.5" PointX="12.375" PointY="8.75" />
+        <EntityTypeShape EntityType="TeknikServisOtomasyonuModel.tbl_Iletisim" Width="1.5" PointX="12.375" PointY="11.75" />
+        <EntityTypeShape EntityType="TeknikServisOtomasyonuModel.tbl_Ilce" Width="1.5" PointX="13.375" PointY="5.75" />
+        <EntityTypeShape EntityType="TeknikServisOtomasyonuModel.tbl_Iller" Width="1.5" PointX="7.375" PointY="13.75" />
+        <AssociationConnector Association="TeknikServisOtomasyonuModel.FK_tbl_Ilce_tbl_Iller" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

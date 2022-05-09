@@ -1,0 +1,31 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using MessagingToolkit.QRCode.Codec;
+
+namespace TeknikServis_Otomasyonu.Formlar
+{
+    public partial class FrmQRKod : Form
+    {
+        public FrmQRKod()
+        {
+            InitializeComponent();
+        }
+
+        private void simpleButton1_Click(object sender, EventArgs e)
+        {
+            // QR Kod Oluşturma
+            // Textbox'dan gelen değeri QR Kod'a dönüştürme
+
+            QRCodeEncoder enc = new QRCodeEncoder();
+            pictureEdit1.Image = enc.Encode(textEdit1.Text);
+
+        }
+    }
+}
