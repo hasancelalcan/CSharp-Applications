@@ -1,0 +1,45 @@
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3-Orta Düzey\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3-Orta Düzey\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.exe
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3-Orta Düzey\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.pdb
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3-Orta Düzey\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csprojAssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3-Orta Düzey\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.AnaSayfa.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3-Orta Düzey\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Filmekle.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3-Orta Düzey\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3-Orta Düzey\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.SalonEkle.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3-Orta Düzey\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.SeansEkle.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3-Orta Düzey\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.SeansListele.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3-Orta Düzey\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3-Orta Düzey\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3-Orta Düzey\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.exe
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3-Orta Düzey\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.pdb
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3-Orta Düzey\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Satışlar.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3- İleri Düzey\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3- İleri Düzey\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.exe
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3- İleri Düzey\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.pdb
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3- İleri Düzey\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csprojAssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3- İleri Düzey\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.AnaSayfa.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3- İleri Düzey\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Filmekle.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3- İleri Düzey\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3- İleri Düzey\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.SalonEkle.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3- İleri Düzey\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Satışlar.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3- İleri Düzey\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.SeansEkle.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3- İleri Düzey\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.SeansListele.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3- İleri Düzey\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3- İleri Düzey\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3- İleri Düzey\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.exe
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3- İleri Düzey\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-2\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-2\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.exe
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-2\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-2\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-2\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.AnaSayfa.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-2\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Filmekle.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-2\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-2\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.SalonEkle.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-2\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Satışlar.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-2\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.SeansEkle.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-2\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.SeansListele.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-2\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-2\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-2\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.exe
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-2\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.pdb

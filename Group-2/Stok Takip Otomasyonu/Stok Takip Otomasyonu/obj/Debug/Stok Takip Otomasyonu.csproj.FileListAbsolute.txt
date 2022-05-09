@@ -1,0 +1,130 @@
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 2.lvl\Stok Takip Otomasyonu\Stok Takip Otomasyonu\bin\Debug\Stok Takip Otomasyonu.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 2.lvl\Stok Takip Otomasyonu\Stok Takip Otomasyonu\bin\Debug\Stok Takip Otomasyonu.exe
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 2.lvl\Stok Takip Otomasyonu\Stok Takip Otomasyonu\bin\Debug\Stok Takip Otomasyonu.pdb
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 2.lvl\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.csprojAssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 2.lvl\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.SatışSayfası.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 2.lvl\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.MüşteriEkle.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 2.lvl\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 2.lvl\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 2.lvl\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 2.lvl\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.exe
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 2.lvl\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.pdb
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 2.lvl\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.MüşteriListele.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 2.lvl\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.KategoriEkle.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 2.lvl\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.MarkaEkle.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 2.lvl\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.ÜrünEkle.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 2.lvl\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.ÜrünListele.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Stok Takip Otomasyonu\Stok Takip Otomasyonu\bin\Debug\Stok Takip Otomasyonu.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Stok Takip Otomasyonu\Stok Takip Otomasyonu\bin\Debug\Stok Takip Otomasyonu.exe
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Stok Takip Otomasyonu\Stok Takip Otomasyonu\bin\Debug\Stok Takip Otomasyonu.pdb
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.csprojAssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.KategoriEkle.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.MarkaEkle.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.MüşteriListele.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.SatışSayfası.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.MüşteriEkle.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.ÜrünEkle.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.ÜrünListele.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.exe
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.pdb
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.SatışListele.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.KullanıcıKayıt.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Çalışmalar 3.lvl\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.KullanıcıGiriş.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Hcc\Stok Takip Otomasyonu\Stok Takip Otomasyonu\bin\Debug\Stok Takip Otomasyonu.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Hcc\Stok Takip Otomasyonu\Stok Takip Otomasyonu\bin\Debug\Stok Takip Otomasyonu.exe
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Hcc\Stok Takip Otomasyonu\Stok Takip Otomasyonu\bin\Debug\Stok Takip Otomasyonu.pdb
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Hcc\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.csprojAssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Hcc\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.KategoriEkle.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Hcc\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.KullanıcıGiriş.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Hcc\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.KullanıcıKayıt.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Hcc\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.MarkaEkle.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Hcc\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.MüşteriListele.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Hcc\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.SatışListele.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Hcc\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.SatışSayfası.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Hcc\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.MüşteriEkle.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Hcc\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Hcc\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.ÜrünEkle.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Hcc\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.ÜrünListele.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Hcc\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Hcc\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Hcc\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.exe
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\Hcc\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.pdb
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\CC\Stok Takip Otomasyonu\Stok Takip Otomasyonu\bin\Debug\Stok Takip Otomasyonu.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\CC\Stok Takip Otomasyonu\Stok Takip Otomasyonu\bin\Debug\Stok Takip Otomasyonu.exe
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\CC\Stok Takip Otomasyonu\Stok Takip Otomasyonu\bin\Debug\Stok Takip Otomasyonu.pdb
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\CC\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.csprojAssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\CC\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.KategoriEkle.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\CC\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.KullanıcıGiriş.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\CC\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.KullanıcıKayıt.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\CC\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.MarkaEkle.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\CC\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.MüşteriListele.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\CC\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.SatışListele.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\CC\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.SatışSayfası.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\CC\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.MüşteriEkle.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\CC\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\CC\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.ÜrünEkle.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\CC\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.ÜrünListele.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\CC\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\CC\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\CC\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.exe
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\CC\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.pdb
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3- İleri Düzey\Stok Takip Otomasyonu\Stok Takip Otomasyonu\bin\Debug\Stok Takip Otomasyonu.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3- İleri Düzey\Stok Takip Otomasyonu\Stok Takip Otomasyonu\bin\Debug\Stok Takip Otomasyonu.exe
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3- İleri Düzey\Stok Takip Otomasyonu\Stok Takip Otomasyonu\bin\Debug\Stok Takip Otomasyonu.pdb
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3- İleri Düzey\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.csprojAssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3- İleri Düzey\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.KategoriEkle.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3- İleri Düzey\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.KullanıcıGiriş.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3- İleri Düzey\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.KullanıcıKayıt.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3- İleri Düzey\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.MarkaEkle.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3- İleri Düzey\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.MüşteriListele.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3- İleri Düzey\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.SatışListele.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3- İleri Düzey\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.SatışSayfası.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3- İleri Düzey\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.MüşteriEkle.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3- İleri Düzey\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3- İleri Düzey\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.ÜrünEkle.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3- İleri Düzey\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.ÜrünListele.resources
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3- İleri Düzey\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3- İleri Düzey\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3- İleri Düzey\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.exe
+C:\Users\hasan\OneDrive\Masaüstü\VS Çalışmalar\VeriTabanlı (SQL)\3- İleri Düzey\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Stok Takip Otomasyonu\Stok Takip Otomasyonu\bin\Debug\Stok Takip Otomasyonu.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Stok Takip Otomasyonu\Stok Takip Otomasyonu\bin\Debug\Stok Takip Otomasyonu.exe
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Stok Takip Otomasyonu\Stok Takip Otomasyonu\bin\Debug\Stok Takip Otomasyonu.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.KategoriEkle.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.KullanıcıGiriş.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.KullanıcıKayıt.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.MarkaEkle.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.MüşteriListele.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.SatışListele.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.SatışSayfası.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.MüşteriEkle.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.ÜrünEkle.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.ÜrünListele.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.exe
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü Programlama\VS Çalışmalar\VeriTabanlı (SQL)\Otomasyonlar +\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-2\Stok Takip Otomasyonu\Stok Takip Otomasyonu\bin\Debug\Stok Takip Otomasyonu.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-2\Stok Takip Otomasyonu\Stok Takip Otomasyonu\bin\Debug\Stok Takip Otomasyonu.exe
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-2\Stok Takip Otomasyonu\Stok Takip Otomasyonu\bin\Debug\Stok Takip Otomasyonu.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-2\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-2\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.KategoriEkle.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-2\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.KullanıcıGiriş.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-2\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.KullanıcıKayıt.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-2\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.MarkaEkle.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-2\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.MüşteriListele.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-2\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.SatışListele.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-2\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.SatışSayfası.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-2\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.MüşteriEkle.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-2\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-2\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.ÜrünEkle.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-2\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.ÜrünListele.resources
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-2\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-2\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-2\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.exe
+C:\Users\hasan\OneDrive\Masaüstü\Masaüstü (C#) Programlama\VS Çalışmalar\Pro (VeriTabanı İle)\Otomasyonlar +\Group-2\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.pdb
